@@ -1,1 +1,1 @@
-# Diabetes-detection-Machine-Learning
+# Diabetes-Detection-Machine-Learning
